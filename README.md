@@ -15,3 +15,4 @@ Blockchain and security tools (e.g., Solana, crypto wallets)
 Command-line tools (e.g., ripgrep, exa)
 Machine Learning (with growing libraries and support)
 
+Rust provides scalar types like integers (i8, u8, etc.), floating-point numbers (f32, f64), booleans (bool), and characters (char). It also includes compound types such as tuples, arrays, and vectors (Vec). The &str type is an immutable string slice, while String is a growable, heap-allocated string. Additionally, Rust has the Option type for values that may or may not be present (Some or None).
